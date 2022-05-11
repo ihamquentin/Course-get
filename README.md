@@ -40,7 +40,7 @@ $ pip install -r requirements.txt
 $ python course-get.py
 ```
 ```sh
-$ python animeX.py "figma professional"
+$ python course-get.py "figma professional"
 ```
 
 ## :heart: Found this project useful?
