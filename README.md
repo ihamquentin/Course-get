@@ -55,3 +55,4 @@ Encounter any problem(s)? feel free to open an issue. If you feel you could make
 ## 🤓 Contributors
 * **ihamquentin**
 
+###THANKS
