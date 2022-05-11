@@ -50,7 +50,7 @@ If you found this project useful or you like what you see, then please consider 
 Encounter any problem(s)? feel free to open an issue. If you feel you could make something better, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
 
 ## ⭐️ License
-<a href="https://github.com/LordGhostX/animeX-v2/blob/master/license.txt">MIT LICENSE</a>
+<a href="https://github.com/ihamquentin/Course-get/blob/main/LICENSE">MIT LICENSE</a>
 
 ## 🤓 Contributors
 * **ihamquentin**
