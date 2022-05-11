@@ -6,8 +6,8 @@ Version 1 of [Course-get](https://github.com/LordGhostX/animeX) which is a CLI t
 All courses are gotten from [downloadly.net](https://downloadly.net/)
 
 ## 📸 Screenshots
-<img src="ss/1a.png" alt="Home page">
-<img src="ss/2a.png" alt="Usage page">
+<img src="ss/logo.png" alt="Home page">
+<img src="ss/process.png" alt="Usage page">
 
 
 ## 💻 Requirements
