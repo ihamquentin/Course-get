@@ -1,0 +1,4 @@
+wget==3.2
+requests==2.21.0
+beautifulsoup4==4.9.0
+clint==0.5.1
